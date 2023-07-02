@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHhrmYvhm8qOA4gIuoA4oa/YswNX9pxBiz7UmPMeuKkp9vhpJOV4ipX8KDyHjHd7kjNIn0Rfn8XB5GtszaqSOg==",
+  "dgSpecHash": "G+leCP3pRL7UK5t8aZ6+JQM54XREwI3ddrg1s1DMRit0lLmf2CbH1c8v97hX1f7xgo4hGZMLb7ZpUNxusgkZ0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kishor Balgi\\OneDrive\\Documents\\UiPath\\Flipkart Product Review Analysis 2\\.local\\",
+  "projectFilePath": "C:\\Users\\Kishor Balgi\\OneDrive\\Documents\\UiPath\\Flipkart Product Review Analysis\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -91,6 +91,7 @@
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.ocr.activities\\3.3.2\\uipath.ocr.activities.3.3.2.nupkg.sha512",
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.ocr.contracts\\2.9.1\\uipath.ocr.contracts.2.9.1.nupkg.sha512",
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.platform\\21.10.0\\uipath.platform.21.10.0.nupkg.sha512",
+    "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\uipath.python.activities.1.6.0.nupkg.sha512",
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.system.activities\\21.10.5\\uipath.system.activities.21.10.5.nupkg.sha512",
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\Kishor Balgi\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.6\\uipath.uiautomation.activities.21.10.6.nupkg.sha512",

@@ -1608,6 +1608,118 @@
           "lib/net461/UiPath.Platform.dll": {}
         }
       },
+      "UiPath.Python.Activities/1.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/_._": {}
+        },
+        "runtime": {
+          "lib/net461/UiPath.Python.Activities.Design.dll": {},
+          "lib/net461/UiPath.Python.Activities.dll": {},
+          "lib/net461/UiPath.Python.dll": {}
+        },
+        "resource": {
+          "lib/net461/de/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net461/de/UiPath.Python.Activities.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net461/de/UiPath.Python.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net461/es-MX/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net461/es-MX/UiPath.Python.Activities.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net461/es-MX/UiPath.Python.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net461/es/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net461/es/UiPath.Python.Activities.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net461/es/UiPath.Python.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net461/fr/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net461/fr/UiPath.Python.Activities.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net461/fr/UiPath.Python.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net461/ja/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net461/ja/UiPath.Python.Activities.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net461/ja/UiPath.Python.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net461/ko/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net461/ko/UiPath.Python.Activities.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net461/ko/UiPath.Python.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net461/pt-BR/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net461/pt-BR/UiPath.Python.Activities.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net461/pt-BR/UiPath.Python.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net461/pt/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net461/pt/UiPath.Python.Activities.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net461/pt/UiPath.Python.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net461/ru/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net461/ru/UiPath.Python.Activities.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net461/ru/UiPath.Python.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net461/tr/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net461/tr/UiPath.Python.Activities.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net461/tr/UiPath.Python.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net461/zh-CN/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net461/zh-CN/UiPath.Python.Activities.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net461/zh-CN/UiPath.Python.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
       "UiPath.System.Activities/21.10.5": {
         "type": "package",
         "dependencies": {
@@ -3621,6 +3733,118 @@
         },
         "runtime": {
           "lib/net461/UiPath.Platform.dll": {}
+        }
+      },
+      "UiPath.Python.Activities/1.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/_._": {}
+        },
+        "runtime": {
+          "lib/net461/UiPath.Python.Activities.Design.dll": {},
+          "lib/net461/UiPath.Python.Activities.dll": {},
+          "lib/net461/UiPath.Python.dll": {}
+        },
+        "resource": {
+          "lib/net461/de/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net461/de/UiPath.Python.Activities.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net461/de/UiPath.Python.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net461/es-MX/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net461/es-MX/UiPath.Python.Activities.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net461/es-MX/UiPath.Python.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net461/es/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net461/es/UiPath.Python.Activities.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net461/es/UiPath.Python.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net461/fr/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net461/fr/UiPath.Python.Activities.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net461/fr/UiPath.Python.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net461/ja/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net461/ja/UiPath.Python.Activities.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net461/ja/UiPath.Python.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net461/ko/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net461/ko/UiPath.Python.Activities.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net461/ko/UiPath.Python.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net461/pt-BR/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net461/pt-BR/UiPath.Python.Activities.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net461/pt-BR/UiPath.Python.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net461/pt/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net461/pt/UiPath.Python.Activities.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net461/pt/UiPath.Python.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net461/ru/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net461/ru/UiPath.Python.Activities.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net461/ru/UiPath.Python.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net461/tr/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net461/tr/UiPath.Python.Activities.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net461/tr/UiPath.Python.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net461/zh-CN/UiPath.Python.Activities.Design.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net461/zh-CN/UiPath.Python.Activities.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net461/zh-CN/UiPath.Python.resources.dll": {
+            "locale": "zh-CN"
+          }
         }
       },
       "UiPath.System.Activities/21.10.5": {
@@ -6988,6 +7212,242 @@
         "uipath.platform.nuspec"
       ]
     },
+    "UiPath.Python.Activities/1.6.0": {
+      "sha512": "W0bvRGa7YbYJ5pbfsxiLfo5NX+vA1d11GSsS0ZNfhOXXRsbtIA1XbgPVpH9PiuRUuVvOOeRdVS/xhNGFz5eh1A==",
+      "type": "package",
+      "path": "uipath.python.activities/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bin/net461/UiPath.Python.Host.exe",
+        "bin/net461/UiPath.Python.Host32.exe",
+        "bin/net461/UiPath.Python.dll",
+        "bin/net461/de/UiPath.Python.resources.dll",
+        "bin/net461/es-MX/UiPath.Python.resources.dll",
+        "bin/net461/es/UiPath.Python.resources.dll",
+        "bin/net461/ja/UiPath.Python.resources.dll",
+        "bin/net461/ko/UiPath.Python.resources.dll",
+        "bin/net461/pt-BR/UiPath.Python.resources.dll",
+        "bin/net461/pt/UiPath.Python.resources.dll",
+        "bin/net461/ru/UiPath.Python.resources.dll",
+        "bin/net461/tr/UiPath.Python.resources.dll",
+        "bin/net461/x64/Python.Runtime.27.dll",
+        "bin/net461/x64/Python.Runtime.34.dll",
+        "bin/net461/x64/Python.Runtime.35.dll",
+        "bin/net461/x64/Python.Runtime.36.dll",
+        "bin/net461/x64/Python.Runtime.37.dll",
+        "bin/net461/x64/Python.Runtime.38.dll",
+        "bin/net461/x64/Python.Runtime.39.dll",
+        "bin/net461/x64/Python.Runtime.Unix.dll",
+        "bin/net461/x64/Python.Runtime.dll",
+        "bin/net461/x86/Python.Runtime.27.dll",
+        "bin/net461/x86/Python.Runtime.34.dll",
+        "bin/net461/x86/Python.Runtime.35.dll",
+        "bin/net461/x86/Python.Runtime.36.dll",
+        "bin/net461/x86/Python.Runtime.37.dll",
+        "bin/net461/x86/Python.Runtime.38.dll",
+        "bin/net461/x86/Python.Runtime.39.dll",
+        "bin/net461/x86/Python.Runtime.dll",
+        "bin/net461/zh-CN/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+        "bin/net5.0-windows7.0/Microsoft.CodeAnalysis.CSharp.dll",
+        "bin/net5.0-windows7.0/Microsoft.CodeAnalysis.Scripting.dll",
+        "bin/net5.0-windows7.0/Microsoft.CodeAnalysis.VisualBasic.Scripting.dll",
+        "bin/net5.0-windows7.0/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "bin/net5.0-windows7.0/Microsoft.CodeAnalysis.dll",
+        "bin/net5.0-windows7.0/Nito.AsyncEx.Tasks.dll",
+        "bin/net5.0-windows7.0/Nito.Disposables.dll",
+        "bin/net5.0-windows7.0/ReflectionMagic.dll",
+        "bin/net5.0-windows7.0/System.Activities.dll",
+        "bin/net5.0-windows7.0/UiPath.Python.Activities.Design.dll",
+        "bin/net5.0-windows7.0/UiPath.Python.Activities.dll",
+        "bin/net5.0-windows7.0/UiPath.Python.Host.deps.json",
+        "bin/net5.0-windows7.0/UiPath.Python.Host.dll",
+        "bin/net5.0-windows7.0/UiPath.Python.Host.dll.config",
+        "bin/net5.0-windows7.0/UiPath.Python.Host.exe",
+        "bin/net5.0-windows7.0/UiPath.Python.Host.runtimeconfig.dev.json",
+        "bin/net5.0-windows7.0/UiPath.Python.Host.runtimeconfig.json",
+        "bin/net5.0-windows7.0/UiPath.Python.Host32.deps.json",
+        "bin/net5.0-windows7.0/UiPath.Python.Host32.dll",
+        "bin/net5.0-windows7.0/UiPath.Python.Host32.dll.config",
+        "bin/net5.0-windows7.0/UiPath.Python.Host32.exe",
+        "bin/net5.0-windows7.0/UiPath.Python.Host32.runtimeconfig.dev.json",
+        "bin/net5.0-windows7.0/UiPath.Python.Host32.runtimeconfig.json",
+        "bin/net5.0-windows7.0/UiPath.Python.Packaging.dll",
+        "bin/net5.0-windows7.0/UiPath.Python.dll",
+        "bin/net5.0-windows7.0/UiPath.Workflow.dll",
+        "bin/net5.0-windows7.0/de/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/es-MX/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/es/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/fr/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/ja/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/ko/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/pt-BR/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/pt/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/ru/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/tr/UiPath.Python.resources.dll",
+        "bin/net5.0-windows7.0/x64/Python.Runtime.36.dll",
+        "bin/net5.0-windows7.0/x64/Python.Runtime.37.dll",
+        "bin/net5.0-windows7.0/x64/Python.Runtime.38.dll",
+        "bin/net5.0-windows7.0/x64/Python.Runtime.39.dll",
+        "bin/net5.0-windows7.0/x64/Python.Runtime.Unix.dll",
+        "bin/net5.0-windows7.0/x64/Python.Runtime.dll",
+        "bin/net5.0-windows7.0/x86/Python.Runtime.36.dll",
+        "bin/net5.0-windows7.0/x86/Python.Runtime.37.dll",
+        "bin/net5.0-windows7.0/x86/Python.Runtime.38.dll",
+        "bin/net5.0-windows7.0/x86/Python.Runtime.39.dll",
+        "bin/net5.0-windows7.0/x86/Python.Runtime.dll",
+        "bin/net5.0-windows7.0/zh-CN/UiPath.Python.resources.dll",
+        "bin/net5.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+        "bin/net5.0/Microsoft.CodeAnalysis.CSharp.dll",
+        "bin/net5.0/Microsoft.CodeAnalysis.Scripting.dll",
+        "bin/net5.0/Microsoft.CodeAnalysis.VisualBasic.Scripting.dll",
+        "bin/net5.0/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "bin/net5.0/Microsoft.CodeAnalysis.dll",
+        "bin/net5.0/Nito.AsyncEx.Tasks.dll",
+        "bin/net5.0/Nito.Disposables.dll",
+        "bin/net5.0/ReflectionMagic.dll",
+        "bin/net5.0/System.Activities.dll",
+        "bin/net5.0/System.CodeDom.dll",
+        "bin/net5.0/System.Xaml.dll",
+        "bin/net5.0/UiPath.Python.Activities.dll",
+        "bin/net5.0/UiPath.Python.Host.deps.json",
+        "bin/net5.0/UiPath.Python.Host.dll",
+        "bin/net5.0/UiPath.Python.Host.dll.config",
+        "bin/net5.0/UiPath.Python.Host.exe",
+        "bin/net5.0/UiPath.Python.Host.runtimeconfig.dev.json",
+        "bin/net5.0/UiPath.Python.Host.runtimeconfig.json",
+        "bin/net5.0/UiPath.Python.Host32.deps.json",
+        "bin/net5.0/UiPath.Python.Host32.dll",
+        "bin/net5.0/UiPath.Python.Host32.dll.config",
+        "bin/net5.0/UiPath.Python.Host32.exe",
+        "bin/net5.0/UiPath.Python.Host32.runtimeconfig.dev.json",
+        "bin/net5.0/UiPath.Python.Host32.runtimeconfig.json",
+        "bin/net5.0/UiPath.Python.Packaging.dll",
+        "bin/net5.0/UiPath.Python.dll",
+        "bin/net5.0/UiPath.Workflow.dll",
+        "bin/net5.0/de/UiPath.Python.resources.dll",
+        "bin/net5.0/es-MX/UiPath.Python.resources.dll",
+        "bin/net5.0/es/UiPath.Python.resources.dll",
+        "bin/net5.0/fr/UiPath.Python.resources.dll",
+        "bin/net5.0/ja/UiPath.Python.resources.dll",
+        "bin/net5.0/ko/UiPath.Python.resources.dll",
+        "bin/net5.0/pt-BR/UiPath.Python.resources.dll",
+        "bin/net5.0/pt/UiPath.Python.resources.dll",
+        "bin/net5.0/ru/UiPath.Python.resources.dll",
+        "bin/net5.0/tr/UiPath.Python.resources.dll",
+        "bin/net5.0/x64/Python.Runtime.36.dll",
+        "bin/net5.0/x64/Python.Runtime.37.dll",
+        "bin/net5.0/x64/Python.Runtime.38.dll",
+        "bin/net5.0/x64/Python.Runtime.39.dll",
+        "bin/net5.0/x64/Python.Runtime.Unix.dll",
+        "bin/net5.0/x64/Python.Runtime.dll",
+        "bin/net5.0/x86/Python.Runtime.36.dll",
+        "bin/net5.0/x86/Python.Runtime.37.dll",
+        "bin/net5.0/x86/Python.Runtime.38.dll",
+        "bin/net5.0/x86/Python.Runtime.39.dll",
+        "bin/net5.0/x86/Python.Runtime.dll",
+        "bin/net5.0/zh-CN/UiPath.Python.resources.dll",
+        "lib/net461/UiPath.Python.Activities.Design.dll",
+        "lib/net461/UiPath.Python.Activities.dll",
+        "lib/net461/UiPath.Python.dll",
+        "lib/net461/de/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/de/UiPath.Python.Activities.resources.dll",
+        "lib/net461/de/UiPath.Python.resources.dll",
+        "lib/net461/es-MX/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/es-MX/UiPath.Python.Activities.resources.dll",
+        "lib/net461/es-MX/UiPath.Python.resources.dll",
+        "lib/net461/es/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/es/UiPath.Python.Activities.resources.dll",
+        "lib/net461/es/UiPath.Python.resources.dll",
+        "lib/net461/fr/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/fr/UiPath.Python.Activities.resources.dll",
+        "lib/net461/fr/UiPath.Python.resources.dll",
+        "lib/net461/ja/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/ja/UiPath.Python.Activities.resources.dll",
+        "lib/net461/ja/UiPath.Python.resources.dll",
+        "lib/net461/ko/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/ko/UiPath.Python.Activities.resources.dll",
+        "lib/net461/ko/UiPath.Python.resources.dll",
+        "lib/net461/pt-BR/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/pt-BR/UiPath.Python.Activities.resources.dll",
+        "lib/net461/pt-BR/UiPath.Python.resources.dll",
+        "lib/net461/pt/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/pt/UiPath.Python.Activities.resources.dll",
+        "lib/net461/pt/UiPath.Python.resources.dll",
+        "lib/net461/ru/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/ru/UiPath.Python.Activities.resources.dll",
+        "lib/net461/ru/UiPath.Python.resources.dll",
+        "lib/net461/tr/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/tr/UiPath.Python.Activities.resources.dll",
+        "lib/net461/tr/UiPath.Python.resources.dll",
+        "lib/net461/zh-CN/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net461/zh-CN/UiPath.Python.Activities.resources.dll",
+        "lib/net461/zh-CN/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/UiPath.Python.Activities.Design.dll",
+        "lib/net5.0-windows7.0/UiPath.Python.Activities.dll",
+        "lib/net5.0-windows7.0/UiPath.Python.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/es/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/es/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/es/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Python.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Python.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Python.resources.dll",
+        "lib/net5.0/UiPath.Python.Activities.dll",
+        "lib/net5.0/UiPath.Python.dll",
+        "lib/net5.0/de/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/de/UiPath.Python.resources.dll",
+        "lib/net5.0/es-MX/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/es-MX/UiPath.Python.resources.dll",
+        "lib/net5.0/es/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/es/UiPath.Python.resources.dll",
+        "lib/net5.0/fr/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/fr/UiPath.Python.resources.dll",
+        "lib/net5.0/ja/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/ja/UiPath.Python.resources.dll",
+        "lib/net5.0/ko/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/ko/UiPath.Python.resources.dll",
+        "lib/net5.0/pt-BR/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/pt-BR/UiPath.Python.resources.dll",
+        "lib/net5.0/pt/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/pt/UiPath.Python.resources.dll",
+        "lib/net5.0/ru/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/ru/UiPath.Python.resources.dll",
+        "lib/net5.0/tr/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/tr/UiPath.Python.resources.dll",
+        "lib/net5.0/zh-CN/UiPath.Python.Activities.resources.dll",
+        "lib/net5.0/zh-CN/UiPath.Python.resources.dll",
+        "uipath.python.activities.1.6.0.nupkg.sha512",
+        "uipath.python.activities.nuspec"
+      ]
+    },
     "UiPath.System.Activities/21.10.5": {
       "sha512": "s9eZnHNKsILJiBw6iX8PlgcUg7uzFH84HD5Om2kAebR+39CqIRxEFPsS9Rbdy74Lj3YW4FINK7wrnUnEa7WpKA==",
       "type": "package",
@@ -7559,6 +8019,7 @@
     ".NETFramework,Version=v4.6.1": [
       "UiPath.Excel.Activities >= 2.11.4 <= 2.11.4",
       "UiPath.Mail.Activities >= 1.12.3 <= 1.12.3",
+      "UiPath.Python.Activities >= 1.6.0 <= 1.6.0",
       "UiPath.System.Activities >= 21.10.5 <= 21.10.5",
       "UiPath.UIAutomation.Activities >= 21.10.6 <= 21.10.6"
     ]
@@ -7570,9 +8031,9 @@
     "restore": {
       "projectUniqueName": "Flipkart Product Review Analysis 2",
       "projectName": "Flipkart Product Review Analysis 2",
-      "projectPath": "C:\\Users\\Kishor Balgi\\OneDrive\\Documents\\UiPath\\Flipkart Product Review Analysis 2\\.local",
+      "projectPath": "C:\\Users\\Kishor Balgi\\OneDrive\\Documents\\UiPath\\Flipkart Product Review Analysis\\.local",
       "packagesPath": "C:\\Users\\Kishor Balgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kishor Balgi\\OneDrive\\Documents\\UiPath\\Flipkart Product Review Analysis 2\\.local"
+      "outputPath": "C:\\Users\\Kishor Balgi\\OneDrive\\Documents\\UiPath\\Flipkart Product Review Analysis\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7586,6 +8047,11 @@
             "include": "Runtime",
             "target": "Package",
             "version": "[1.12.3, 1.12.3]"
+          },
+          "UiPath.Python.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[1.6.0, 1.6.0]"
           },
           "UiPath.System.Activities": {
             "include": "Runtime",
