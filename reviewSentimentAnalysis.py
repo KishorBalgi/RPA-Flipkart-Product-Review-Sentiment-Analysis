@@ -51,6 +51,8 @@ def main():
     plt.pie(answer,labels=review_labels,explode=explode,autopct='%1.0f%%')
     plt.title("Result: "+result)
     plt.axis("equal")
+    # save the pie chart with size of 15kb:
+    plt.savefig("C:/Users/Kishor Balgi/OneDrive/Documents/UiPath/Flipkart Product Review Analysis/AnalysisChart.png",dpi=70)
     plt.show()
 
 main()
